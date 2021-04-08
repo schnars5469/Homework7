@@ -1,2 +1,3 @@
+#Accessions used in project 2
 #SRR13712455
 #SRR13712464
